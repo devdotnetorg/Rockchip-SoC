@@ -1,2 +1,2 @@
 # Rockchip-SoC
- Documentation for Rockchip SoCs
+Rockchip SoC Documentation
